@@ -74,7 +74,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 You can view a live demo of the project [here](https://ryomenusukuna.github.io/bazzinga-cooper/).
 
-```
+--
 
 May the Force Be With You
-```
