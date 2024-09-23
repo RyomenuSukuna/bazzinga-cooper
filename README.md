@@ -1,4 +1,4 @@
-Here's the updated `README.md` including the models used for transcription and translation:
+## Bazzinga Cooper
 
 ````markdown
 # Bazzinga Cooper
@@ -76,5 +76,5 @@ You can view a live demo of the project [here](https://ryomenusukuna.github.io/b
 
 ```
 
-This includes the machine learning models you're using, and links to their Hugging Face pages.
+May the Force Be With You
 ```
