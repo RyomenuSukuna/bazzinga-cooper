@@ -68,12 +68,10 @@ Feel free to submit issues or pull requests. For major changes, please open an i
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-### Demo
+## Demo
 
 You can view a live demo of the project [here](https://ryomenusukuna.github.io/bazzinga-cooper/).
 
---
+---
 
 May the Force Be With You
